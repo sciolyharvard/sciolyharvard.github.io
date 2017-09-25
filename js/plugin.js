@@ -141,7 +141,7 @@ responsive:!0,responsiveRefreshRate:200,responsiveBaseWidth:g,baseClass:"owl-car
          * Main downCount function that calculates everything
          */
         function countdown () {
-            var target_date = new Date("September 25, 2017 09:00:00 GMT-0400"), // set target date
+            var target_date = new Date("09/25/2017 09:00:00"), // set target date
                 current_date = currentDate(); // get fixed current date
 
             // difference of dates
