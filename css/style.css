@@ -208,8 +208,7 @@ fieldset {
 
   box-shadow: 0 0 1px transparent;
   position: relative;
-  background: #717171;
-  cursor: not-allowed;
+  background: #006330;
 }
 
 .button-style:before {
@@ -220,9 +219,8 @@ fieldset {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #373737;
+  background: #006330;
   border-radius: 5px;
-  cursor: not-allowed;
 
 }
 
