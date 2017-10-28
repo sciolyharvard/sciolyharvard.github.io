@@ -262,7 +262,7 @@ fieldset {
 
 .home-section-background {
 	padding: 95px 0px;
-    background: url(../images/bg/bg.jpg);
+    background: url(/images/bg/bg.jpg);
     background-size: cover;
 	background-attachment: fixed;
 }
